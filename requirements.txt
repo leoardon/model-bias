@@ -1,0 +1,6 @@
+pandas==0.24.1
+aif360==0.2.3
+CCIT==0.4
+bokeh==2.0.2
+statsmodels==0.11.1
+shap==0.35.0
